@@ -155,7 +155,7 @@ export default function HomePage() {
       {/* Hero text */}
       <div className="h-screen w-full flex flex-col items-center justify-center relative z-10 text-white text-center px-4 py-4">
         <h1 className="text-2xl md:text-3xl font-bold mb-3 drop-shadow-lg">
-          Hi, I'm Thái Hòa
+          Hi, I&apos;m Thái Hòa
         </h1>
 
         <TypeAnimation
